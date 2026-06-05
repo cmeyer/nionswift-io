@@ -1,6 +1,12 @@
 Changelog (nionswift-io)
 ========================
 
+15.6.0 (2026-06-05)
+-------------------
+- Update typing.
+- Remove conda build support.
+- Add support for DM5 file format.
+
 15.5.1 (2026-03-19)
 -------------------
 - Python 3.14 support.
